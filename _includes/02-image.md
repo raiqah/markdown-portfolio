@@ -1,2 +1,2 @@
-![GitHub Logo](/images/logo.png)
+![GitHub Picture](https://octodex.github.com/images/yaktocat.png)
 Format:![Alt Text](url)
